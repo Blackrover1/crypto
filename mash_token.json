@@ -1,0 +1,24 @@
+{
+  "name": "Mashle",
+  "symbol": "MSH",
+  "description": "The choice of losing and the choice of not rescuing. Neither exist to me.",
+  "image": "https://raw.githubusercontent.com/Blackrover1/crypto/main/mash.png",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "2,000,000,000"
+    },
+    {
+      "trait_type": "Mint Address",
+      "value": "51AATP3jWZ59HQqW3darnyqsLqXpA1cMiLbn4oh6giDd"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "4oZJNXDVmeDf5NbKfyWawRLrtzJGGUmZ9Lf46CJNg8bT"
+      }
+    ]
+  }
+}
+
